@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "antilia",
+    "slug": "antilia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "antilia"
+}
